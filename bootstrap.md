@@ -1,4 +1,8 @@
 -- Learning Basics --
+
+ video_JVL  =  https://www.youtube.com/watch?v=XZ_x08DDKuI
+
+
 0:03:02 - Installing Bootstrap
 0:11:06 - Typography
 0:13:17 - Background Colors
